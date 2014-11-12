@@ -16,6 +16,11 @@ Don't settle for boring buttons. Impress your users instead with this beautiful 
 - Raised
 - Rounded + Raised
 
+### Credits
+This button pack was built by Marc Chouinard for BootstrapBay.
+- Follow: https://twitter.com/codingdog
+- Website: https://bootstrapbay.com
+
 ### License
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
