@@ -3,7 +3,8 @@
 
 Don't settle for boring buttons. Impress your users instead with this beautiful Bootstrap button pack.
 
-**[Check out the demo here](http://bootstrapbay.com/demo/push/demo)**
+###Demo
+[Check out the demo here](http://bootstrapbay.com/demo/push/demo)
 
 ###Code
 - Compatible with Bootstrap 3.2
