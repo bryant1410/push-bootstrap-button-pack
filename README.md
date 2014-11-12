@@ -18,8 +18,8 @@ Don't settle for boring buttons. Impress your users instead with this beautiful 
 
 ### Credits
 This button pack was built by Marc Chouinard for BootstrapBay.
-- Follow: https://twitter.com/codingdog
-- Website: http://bootstrapbay.com
+- Follow: [@codingdog](https://twitter.com/codingdog)
+- Website: [BootstrapBay](http://bootstrapbay.com)
 
 ### License
 This work is licensed under a Creative Commons Attribution 4.0 International License.
