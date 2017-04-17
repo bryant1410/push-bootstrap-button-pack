@@ -3,14 +3,14 @@
 
 Don't settle for boring buttons. Impress your users instead with this beautiful Bootstrap button pack.
 
-###Demo
+### Demo
 [Check out the demo here](http://bootstrapbay.com/demo/push/demo)
 
-###Code
+### Code
 - Compatible with Bootstrap 3.2
 - Neatly organized CSS code for easy implementation
 
-###Button Styles
+### Button Styles
 - Standard
 - Sharp
 - Outline
